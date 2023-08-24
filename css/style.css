@@ -1,0 +1,284 @@
+body{
+    background-color: black;
+  
+}
+@media(min-width: 992px){
+
+ .texto2 {
+    margin-inline-end: 0;
+    margin-block-end: 0;
+    color: aliceblue;
+    width: 40%;
+    max-width: 100%;
+    font-size: 1.3rem;
+    margin-top: 10%;
+    margin-left: 4%;
+  }
+
+.menu1{
+  margin-left: 60%;
+  margin-top: -10%;
+}
+.botao{
+    background-color: black;
+    color: aliceblue;
+    font-size: medium;
+    border: none;
+
+}
+.mobile {
+  width: 35vw;
+}
+
+.galeria{
+    color: aliceblue;
+    margin-left: 1%;
+}
+
+.menu{
+    margin-left: 55%;
+    margin-top: -13%;
+    
+}
+
+.texto{
+    color: aliceblue;
+    width: 40%;
+    margin-top: 17%;
+
+}
+
+.foto{
+    width: 40%;
+    height: 40%;
+    margin-left: 50%;
+    margin-top: -40%;
+}
+
+.carousel-inner{
+    padding: 10% 20%;
+    border: none;
+    border-radius: 5%;
+    cursor: pointer;
+    margin-top: 0.4cm;
+    margin-bottom: 0.4cm;
+    font-size: 0.7cm;
+    margin-right: 11cm;
+    height: 60%;
+}
+.titulos{
+    color: aliceblue;
+    margin-top: -20%;
+    margin-bottom: 20%;
+  
+}
+
+
+
+
+
+
+
+form {
+    margin: 0 auto;
+    width: 40%;
+    padding: 1em;
+    border: 1% solid #CCC;
+    border-radius: 1em;
+    margin-top: 10%;
+  }
+  
+  form div + div {
+    margin-top: 1em;
+  }
+  
+  label {
+    display: inline-block;
+    width: 10%;
+    text-align: right;
+  }
+  
+  input, textarea {
+    font: 1em sans-serif;
+    width: 70%;
+    box-sizing: border-box;
+    border: 5% solid #999;
+  }
+  
+  input:focus, textarea:focus {
+    border-color: #000;
+  }
+  
+  textarea {
+    vertical-align: top;
+    height: 5em;
+  }
+  
+  .button {
+    padding-left: 90%; 
+  }
+  
+  button {
+    margin-left: .3em;
+  }
+  .fotos{
+    width: 40%;
+    height: 40%;
+    margin-left: 50%;
+    margin-top: -90%;
+  }
+}
+
+
+@media(max-width: 600px){
+  body {
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .mob {
+    max-width: 100vw;
+  }
+  .botao{
+    background-color: black;
+    color: aliceblue;
+    font-size: medium;
+    border: none;
+
+}
+
+.texto{
+  color: aliceblue;
+  width: 40%;
+  margin-top: 17%;
+
+}
+.mobile {
+  width: 45vw;
+  margin-top:-80%;
+  padding: 0;
+}
+
+.galeria{
+    color: aliceblue;
+}
+
+.menu1{
+  margin-top: 10%;
+ 
+}
+
+.menu {
+  margin-top: -145%;
+  width: 100%;
+  margin-left: -58%;
+  margin-right: 24%;
+}
+.texto {
+  margin-inline-end: 0;
+  margin-block-end: 0;
+  color: aliceblue;
+  width: 100%;
+  max-width: 100%;
+  font-size: 1.3rem;
+  margin-top: 10%;
+  margin-left: 0%;
+}
+
+.texto2 {
+  margin-inline-end: 0;
+  margin-block-end: 0;
+  color: aliceblue;
+  width: 100%;
+  max-width: 100%;
+  font-size: 1.3rem;
+  margin-top: 10%;
+  margin-left: -20%;
+}
+
+
+.foto{
+    width: 60vw;
+    height: auto;
+    margin-right: 20%;
+}
+
+.carousel-inner{
+    padding: 10% 20%;
+    border: none;
+    border-radius: 5%;
+    cursor: pointer;
+    margin-top: 0.4cm;
+    margin-bottom: 0.4cm;
+    font-size: 0.7cm;
+    margin-right: 4rem;
+    height: 60vh;
+}
+.titulos{
+    color: aliceblue;
+    margin-top: -20%;
+    margin-bottom: 20%;
+  
+}
+
+
+form {
+    margin: 0 auto;
+    width: 120%;
+    padding: 1em;
+    border: 1% solid #CCC;
+    border-radius: 1em;
+    margin-top: 60%;
+    margin-left: -120%;
+    margin-right: -30%;
+  
+  }
+  
+  form div + div {
+    margin-top: 1em;
+  }
+  
+  label {
+    display: inline-block;
+    width: 10%;
+    text-align: right;
+  }
+  
+  input, textarea {
+    font: 1em sans-serif;
+    width: 70%;
+    box-sizing: border-box;
+    border: 5% solid #999;
+  }
+  
+  input:focus, textarea:focus {
+    border-color: #000;
+  }
+  
+  textarea {
+    vertical-align: top;
+    height: 5em;
+  }
+  
+  .button {
+    padding-left: 90%; 
+  }
+  button {
+    margin-left: 0%;
+  }
+  .fotos {
+    width: 36vw;
+    height: 20vh;
+    margin-left: -70%;
+    margin-top: 210%;
+}
+.logo {
+  width: 37%;
+  margin-top: -197%;
+}
+.imag{
+  width: 45vw;
+}
+.
+}
